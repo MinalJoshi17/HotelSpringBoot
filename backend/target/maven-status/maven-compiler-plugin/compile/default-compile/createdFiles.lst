@@ -1,0 +1,6 @@
+com\example\HotelBooking\repositories\PaymentRepository.class
+com\example\HotelBooking\entities\PaymentEntity.class
+com\example\HotelBooking\enums\PaymentGateway.class
+com\example\HotelBooking\entities\User.class
+com\example\HotelBooking\enums\PaymentStatus.class
+com\example\HotelBooking\enums\UserRole.class
