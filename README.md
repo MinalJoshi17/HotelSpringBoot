@@ -43,11 +43,11 @@ This is a full-stack Hotel Booking web application built with **Spring Boot** fo
 
 **Backend**
 
-* Java 18
+* Java 17
 * Spring Boot
 * Spring Security (JWT)
 * JPA/Hibernate
-* MySQL / H2 (for development)
+* MySQL
 * Lombok
 
 **Tools & Libraries**
