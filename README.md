@@ -4,7 +4,7 @@
 
 ## Hotel Booking System
 
-This is a full-stack Hotel Booking web application built with **Spring Boot** for the backend and **React** for the frontend. The system supports room listings, user authentication, booking management, and admin operations.
+This is a full-stack Hotel Booking web application built with **Spring Boot** for the backend and **React** for the frontend. The system supports room listings, user authentication, booking management, and admin operations along with the microservices architecture.
 
 ---
 <img width="800" height="492" alt="Screenshot 2025-08-11 225901" src="https://github.com/user-attachments/assets/f8fde675-8fc0-4040-aece-cd40795fc8aa" />
